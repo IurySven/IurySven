@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29qN3B0eGZveXpsNmc2dTZ3amtmODl3bjZhN29yMTR5MDc3Nzc0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gdmug3GlULPjO/200w.webp"  />
+<img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202412/1473879_73V8mK7l.png"  />
 
 ###
 
@@ -25,6 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
 ###
