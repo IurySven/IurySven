@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202412/1473879_vkgMiQEI.png"  />
 
-<img align="right" height="150" src="[https://cdn.picrew.me/shareImg/org/202412/1473879_vkgMiQEI.png]https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNxeDBrNDQydXd0eGI1YXFpang3ZW10dTdsZXBqejh0c21rZXMzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gdmug3GlULPjO/200w.webp"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNxeDBrNDQydXd0eGI1YXFpang3ZW10dTdsZXBqejh0c21rZXMzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gdmug3GlULPjO/200w.webp"  />
 
 ###
 
